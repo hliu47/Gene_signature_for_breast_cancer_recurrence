@@ -1,2 +1,1 @@
-# Gene_signature_for_breast_cancer_recurrence
-Subtype specific and RNA-Seq based gene signatures for the prediction of breast cancer recurrence
+Subtype Specific and RNA-Seq Based Gene Signatures for the Prediction of Breast Cancer Recurrence
